@@ -82,6 +82,10 @@ git clone https://github.com/pmndrs/react-three-next
 && cd react-three-next && yarn install
 ```
 
+### Todo
+- [ ] Remove sub pages   
+- [ ] Add Lenis
+
 ### Maintainers :
 
 - [`twitter 🐈‍⬛ @onirenaud`](https://twitter.com/onirenaud)
