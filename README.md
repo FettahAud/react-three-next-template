@@ -85,6 +85,7 @@ git clone https://github.com/pmndrs/react-three-next
 ### Todo
 - [ ] Remove sub pages   
 - [ ] Add Lenis
+- [ ] Add Gsap
 
 ### Maintainers :
 
